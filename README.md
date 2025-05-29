@@ -16,20 +16,20 @@
 
 
 
-![](https://github.com/omayma-gam/lahcen404/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/omayma-gam/omayma-gam/blob/output/github-contribution-grid-snake.svg)
 ✍️ Random Dev Quote,
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 🔝 Top Contributed Repo,
-![](https://github-contributor-stats.vercel.app/api?username=lahcen404&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=omayma-gam&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 ![](https://visitcount.itsvg.in/api?id=Omayma&icon=0&color=0)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lahcen404&label=Profile%20views&color=0e75b6&style=flat" alt="Omayma" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omayma-gam&label=Profile%20views&color=0e75b6&style=flat" alt="Omayma" /> </p>
 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/lahcen404/lahcen404/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/omayma-gam/omayma-gam/output/github-snake.svg" />
 </picture>
